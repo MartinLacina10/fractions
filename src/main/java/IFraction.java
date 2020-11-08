@@ -21,6 +21,7 @@ public interface IFraction {
      * @param other fraction
      * @return new instance of IFraction representing the result
      */
+
     IFraction minus(IFraction other);
 
     /**
